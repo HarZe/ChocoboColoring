@@ -10,9 +10,33 @@ I have seen many websites where you can check the total berries you need to use 
 
 Execute the main function (or the compiled jar) with two arguments, being the first the name of the current color of your chocobo, and the second the target color. A correct input will provide the berries you need to feed the chocobo (totals and order), otherwise it will print the available colors.
 
-# Example
+### Usage example
 
-java -jar chocobo-coloring-0.1.jar "Desert Yellow" "Ash Gray"
+$ *java -jar chocobo-coloring-0.1.jar "Desert Yellow" "Ash Gray"*
+*** ChocoboColoring 0.1 - http://github.com/HarZe/ChocoboColoring
+ 
+---> From Desert Yellow to Ash Gray you'll need:
+O'Ghomoro Berries x6
+Doman Plum x6
+Valfruit x2
+
+---> Feed your chocobo in this order:
+O'Ghomoro Berries
+O'Ghomoro Berries
+O'Ghomoro Berries
+Doman Plum
+O'Ghomoro Berries
+Doman Plum
+O'Ghomoro Berries
+Doman Plum
+O'Ghomoro Berries
+Doman Plum
+Valfruit
+Doman Plum
+Valfruit
+Doman Plum
+
+---> That's all, thanks for using ChocoboColoring
 
 ## License
 
