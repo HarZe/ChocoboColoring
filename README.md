@@ -12,31 +12,7 @@ Execute the main function (or the compiled jar) with two arguments, being the fi
 
 ### Usage example
 
-$ *java -jar chocobo-coloring-0.1.jar "Desert Yellow" "Ash Gray"*
-*** ChocoboColoring 0.1 - http://github.com/HarZe/ChocoboColoring
- 
----> From Desert Yellow to Ash Gray you'll need:
-O'Ghomoro Berries x6
-Doman Plum x6
-Valfruit x2
-
----> Feed your chocobo in this order:
-O'Ghomoro Berries
-O'Ghomoro Berries
-O'Ghomoro Berries
-Doman Plum
-O'Ghomoro Berries
-Doman Plum
-O'Ghomoro Berries
-Doman Plum
-O'Ghomoro Berries
-Doman Plum
-Valfruit
-Doman Plum
-Valfruit
-Doman Plum
-
----> That's all, thanks for using ChocoboColoring
+*java -jar chocobo-coloring-0.1.jar "Desert Yellow" "Ash Gray"*
 
 ## License
 
